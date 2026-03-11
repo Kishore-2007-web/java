@@ -8,4 +8,6 @@ alert('kishore');
 document.body.innerHTML='good';
 document.body.innerHTML='kishore';
 document.body.innerHTML=' ';
+Math.round((18.50+7.50+10)/0.1);
+
 
