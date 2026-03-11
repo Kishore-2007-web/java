@@ -3,3 +3,5 @@ alert('good gref');
 document.body.innerHTML='arigatho';
 document.body.innerHTML='sayonara';
 alert('ohaiho sensei');
+alert('goog');
+alert('kishore');
