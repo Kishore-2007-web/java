@@ -5,3 +5,5 @@ document.body.innerHTML='sayonara';
 alert('ohaiho sensei');
 alert('goog');
 alert('kishore');
+document.body.innerHTML='good';
+document.body.innerHTML='kishore';
