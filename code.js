@@ -17,3 +17,7 @@ let round1=Math.floor(num1);
 let round2=Math.ceil(num2);
 console.log(round1);
 console.log(round2);
+
+console.log('my name is');
+console.log('kishore');
+console.log('my name is'+' '+'kishore');
