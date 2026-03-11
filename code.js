@@ -7,3 +7,5 @@ alert('goog');
 alert('kishore');
 document.body.innerHTML='good';
 document.body.innerHTML='kishore';
+document.body.innerHTML=' ';
+
