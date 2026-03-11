@@ -11,3 +11,9 @@ document.body.innerHTML=' ';
 Math.round((18.50+7.50+10)/0.1);
 
 
+let numi=2.8;
+let num2=2.2;
+let round1=Math.floor(num1);
+let round2=Math.ceil(num2);
+console.log(round1);
+console.log(round2);
