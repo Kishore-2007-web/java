@@ -27,3 +27,9 @@ let coffee=5;
 let bagal=3;
 let total= coffee + bagal;
 console.log('total cost:'+' '+total);
+
+
+//12-3-26
+let coffee=5;
+let bagal=3;
+console.log(`total cost:$${coffee+bagal}`);
