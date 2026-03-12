@@ -51,4 +51,5 @@ alert(`total is :$${Math.round(co+ba)} \nTHank you, come again!`);
 console.log(`items(4):\t\t\t$${Math.round(2*20.95+2*7.99)}`);
 console.log(`shiping & handling:\t\t$${Math.round(4.99*2)}`);
 console.log(`total before tax:$${Math.round(57.88+9.98)}`);
-console.log(`estimated tax(10%):\t\t$${Math.round(67.86%0.1)}`);
+console.log(`estimated tax(10%):\t\t$${Math.(67.86 / 0.1)}`);
+
