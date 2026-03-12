@@ -40,3 +40,6 @@ let ba =2.95;
 console.log("total is :$"+Math.round(co+ba) );
 
 console.log(`total is :$${Math.round(co+ba)}` );
+
+alert(`total is:$${co+ba}`);
+alert(`total is :$${Math.round(co+ba)} \nTHank you, come again!`);
