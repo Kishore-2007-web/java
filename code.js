@@ -33,3 +33,5 @@ console.log('total cost:'+' '+total);
 let coffee=5;
 let bagal=3;
 console.log(`total cost:$${coffee+bagal}`);
+alert(`total cost:$${coffee+bagal}`);
+
