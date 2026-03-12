@@ -39,3 +39,4 @@ let co =5.99;
 let ba =2.95;
 console.log("total is :$"+Math.round(co+ba) );
 
+console.log(`total is :$${Math.round(co+ba)}` );
