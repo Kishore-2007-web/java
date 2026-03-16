@@ -57,3 +57,4 @@ console.log(`estimated tax(10%):\t\t$${Math.(67.86 / 0.1)}`);
 
 
 alert('welcome');
+<button onclick="alert('added');">add to cart</button>
