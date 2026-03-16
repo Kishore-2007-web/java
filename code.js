@@ -53,3 +53,7 @@ console.log(`shiping & handling:\t\t$${Math.round(4.99*2)}`);
 console.log(`total before tax:$${Math.round(57.88+9.98)}`);
 console.log(`estimated tax(10%):\t\t$${Math.(67.86 / 0.1)}`);
 
+
+
+
+alert('welcome');
